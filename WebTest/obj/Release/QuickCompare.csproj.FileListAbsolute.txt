@@ -1,0 +1,9 @@
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\WebTest\WebTest\bin\Release\WebTest.exe
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\WebTest\WebTest\bin\Release\WebTest.pdb
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\WebTest\WebTest\obj\Release\QuickCompare.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\WebTest\WebTest\obj\Release\WebTest.Code.resources
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\WebTest\WebTest\obj\Release\WebTest.Main.resources
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\WebTest\WebTest\obj\Release\WebTest.Properties.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\WebTest\WebTest\obj\Release\QuickCompare.csproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\WebTest\WebTest\obj\Release\WebTest.exe
+C:\Users\Dan\Documents\Visual Studio 2012\Projects\WebTest\WebTest\obj\Release\WebTest.pdb

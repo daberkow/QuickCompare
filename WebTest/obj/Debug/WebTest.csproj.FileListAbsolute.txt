@@ -1,0 +1,9 @@
+c:\users\dan\documents\visual studio 2012\Projects\WebTest\WebTest\bin\Debug\WebTest.exe
+c:\users\dan\documents\visual studio 2012\Projects\WebTest\WebTest\bin\Debug\WebTest.pdb
+c:\users\dan\documents\visual studio 2012\Projects\WebTest\WebTest\obj\Debug\WebTest.csprojResolveAssemblyReference.cache
+c:\users\dan\documents\visual studio 2012\Projects\WebTest\WebTest\obj\Debug\WebTest.Code.resources
+c:\users\dan\documents\visual studio 2012\Projects\WebTest\WebTest\obj\Debug\WebTest.Form1.resources
+c:\users\dan\documents\visual studio 2012\Projects\WebTest\WebTest\obj\Debug\WebTest.Properties.Resources.resources
+c:\users\dan\documents\visual studio 2012\Projects\WebTest\WebTest\obj\Debug\WebTest.csproj.GenerateResource.Cache
+c:\users\dan\documents\visual studio 2012\Projects\WebTest\WebTest\obj\Debug\WebTest.exe
+c:\users\dan\documents\visual studio 2012\Projects\WebTest\WebTest\obj\Debug\WebTest.pdb
